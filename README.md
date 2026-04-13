@@ -50,7 +50,7 @@ Website được xây dựng nhằm giới thiệu bản thân, kỹ năng, dự
 
 ---
 
-## 🌍 Website
+## 🌍 Demo Website
 👉 Link: https://kimoanhn.gamer.gd
 
 ---
@@ -63,7 +63,7 @@ Website được xây dựng nhằm giới thiệu bản thân, kỹ năng, dự
 ## 👩‍💻 Tác giả
 **Nguyễn Thị Kim Oanh**  
 Sinh viên Công nghệ thông tin  
-Định hướng: Web Developer & Tester
+Định hướng: Software Tester
 
 ---
 
