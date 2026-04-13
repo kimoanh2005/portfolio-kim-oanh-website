@@ -50,13 +50,13 @@ Website được xây dựng nhằm giới thiệu bản thân, kỹ năng, dự
 
 ---
 
-## 🌍 Demo Website
-👉 Link: https://tenban.epizy.com
+## 🌍 Website
+👉 Link: https://kimoanhn.gamer.gd
 
 ---
 
 ## 📁 Source Code
-👉 GitHub: https://github.com/tenban/portfolio-kim-oanh
+👉 GitHub: https://github.com/kimoanh2005/portfolio-kim-oanh
 
 ---
 
