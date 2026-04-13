@@ -1,0 +1,22 @@
+
+# BEGIN SureMails
+# Các nội dung nằm giữa "BEGIN SureMails" và "END SureMails" được tạo ra tự động, và chỉ nên được thay đổi thông qua các filter của WordPress. Mọi thay đổi tới thành phần này có thể sẽ bị mất và ghi đè.
+<Files *>
+  SetHandler none
+  SetHandler default-handler
+  RemoveHandler .cgi .php .php3 .php4 .php5 .php7 .phtml .phar .phps .pht .phpt .inc .pl .py .pyc .pyo
+  RemoveType .cgi .php .php3 .php4 .php5 .php7 .phtml .phar .phps .pht .phpt .inc .pl .py .pyc .pyo
+</Files>
+<IfModule mod_php5.c>
+  php_flag engine off
+</IfModule>
+<IfModule mod_php7.c>
+  php_flag engine off
+</IfModule>
+<IfModule mod_php8.c>
+  php_flag engine off
+</IfModule>
+<IfModule headers_module>
+  Header set X-Robots-Tag "noindex"
+</IfModule>
+# END SureMails
